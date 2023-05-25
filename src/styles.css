@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.m-2 {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.group-title {
+  text-align: center;
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.droppable-region {
+  margin: 2rem 1.5rem;
+}
+
+img {
+  width: auto;
+  height: 350px;
+}
